@@ -9,7 +9,7 @@
 ## 결과물
   * 원본사진 : 'B_cat jpg'
   * 변환된사진 : 'A_cat.png'
-  * VEO3 영상 : '.mp3'
+  * VEO3 영상 : 'cat_mukbang.mp4'
 
 ## 사용한  Prompt
   * Nano Banana
