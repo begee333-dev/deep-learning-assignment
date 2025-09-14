@@ -8,8 +8,8 @@
     
 ## 결과물
   * 원본사진 : 'B_cat jpg'
-  * 변환된사진 : '어른 고양이.jpg'
-  * VEO3 영상 : '어른 고양이 먹방.mp3'
+  * 변환된사진 : 'A_cat.png'
+  * VEO3 영상 : '.mp3'
 
 ## 사용한  Prompt
   * Nano Banana
